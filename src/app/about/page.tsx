@@ -19,7 +19,7 @@ export default function about(){
         <p>Phone: 03000000000</p>
 
 
-        <p>; 2024 Haseeb All rights reserved.</p>
+        <p>2024 Haseeb All rights reserved.</p>
     </div> 
     </div>
     )
